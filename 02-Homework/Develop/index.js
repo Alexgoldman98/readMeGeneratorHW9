@@ -56,13 +56,13 @@ async function getUserInput(){
 function writeFile(responses){ 
 return `# ${responses.title}
 ## Table of Contents: 
-[Project Description](#Project-Description)
-[Installation](#Installation)
-[Usage Information](#Usage-Information)
-[Contribution Guidelines](#Contribution-Guidelines)
-[Test Instructions](#Test-Instructions)
-[Licensing](#Licensing)
-[Questions and Contact Information](#Questions-and-Contact-Information)
+[Project Description](#Project-Description)\n
+[Installation](#Installation)\n
+[Usage Information](#Usage-Information)\n
+[Contribution Guidelines](#Contribution-Guidelines)\n
+[Test Instructions](#Test-Instructions)\n
+[Licensing](#Licensing)\n
+[Questions and Contact Information](#Questions-and-Contact-Information)\n
 
 ## Project Description 
 ${responses.description}
@@ -83,9 +83,9 @@ ${responses.test}
 ${responses.license}
 
 ### Questions and Contact Information 
-${responses.gitLink} 
-${responses.gitUser} 
-${responses.email} 
+Github: ${responses.gitLink} \n
+Github username: ${responses.gitUser} \n
+Email address: ${responses.email} \n
 Any Questions should be directed to me using the above contact information.`
 }
 

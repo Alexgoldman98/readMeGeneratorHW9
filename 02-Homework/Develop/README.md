@@ -27,7 +27,7 @@ N/A
 MIT
 
 ### Questions and Contact Information 
-github.com/Alexgoldman98 
-alexgoldman98 
-alexgoldman98@gmail.com 
+Github: github.com/Alexgoldman98
+Github username: alexgoldman98 
+Email: alexgoldman98@gmail.com 
 Any Questions should be directed to me using the above contact information.
