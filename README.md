@@ -31,3 +31,6 @@ Github: github.com/Alexgoldman98
 Github username: alexgoldman98  
 Email: alexgoldman98@gmail.com   
 Any Questions should be directed to me using the above contact information.   
+
+## Walkthrough Video Link
+https://youtu.be/VB5VqoUYV-k
